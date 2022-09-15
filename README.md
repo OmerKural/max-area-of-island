@@ -1,5 +1,5 @@
 # max-area-of-island
-Find the maximum area of island on a 2d grid using "breadth first traversal" algorithm.
+Find the maximum area of island on a 2d grid using "depth first search" algorithm.
 
 # Problem Explanation:
 
