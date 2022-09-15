@@ -3,7 +3,7 @@
 #include <math.h>
 using namespace std;
 
-// Recursive breadth first traversal function.
+// Recursive depth first search function.
 void search(vector<vector<int>> &grid, vector<vector<int>> &searched, int r, int c, int &area)
 {
     /*
